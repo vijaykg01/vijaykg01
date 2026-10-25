@@ -14,10 +14,10 @@ I turn raw data into clear dashboards and business insights using SQL, Power BI,
 ## 📊 Featured Projects
 | Project | What I did | Tools |
 |---|---|---|
-| [SQL Server Data Warehouse](link) | Built a warehouse with ETL and cleaned analytical tables | SQL Server |
-| [Ola Ride Bookings Dashboard](link) | Analysed booking, cancellation and revenue patterns | Power BI, DAX |
-| [Super Sales Insights](link) | Sales performance and trend analysis | Excel, SQL/Power BI |
-| [Bengaluru House Price Analysis](link) | EDA to find the key factors driving prices | Python, Pandas |
+| [SQL Server Data Warehouse](https://github.com/vijaykg01/Data-Warehouse-and-Analytics) | Built a warehouse with ETL and cleaned analytical tables | SQL Server |
+| [Ola Ride Bookings Dashboard](https://github.com/vijaykg01/Ola-Bookings-Analysis) | Analysed booking, cancellation and revenue patterns | Power BI, DAX |
+| [Super Sales Insights](https://github.com/vijaykg01/Super-sales-insights) | Sales performance and trend analysis | Excel, SQL/Power BI |
+| [Bengaluru House Price Analysis](https://github.com/vijaykg01/Bengaluru-House-Price-Analysis) | EDA to find the key factors driving prices | Python, Pandas |
 
 
 ## 🎓 Certification
