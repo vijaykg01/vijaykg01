@@ -1,5 +1,31 @@
-# 💫 About Me:
-👋 Hi, I'm Vijay K G<br>📊 Aspiring Data Analyst<br>🔭 I'm currently working on data analysis projects and dashboard development<br>🌱 I'm currently learning Python, SQL, Power BI, Excel, Statistics, and Data Visualization<br>👯 I'm looking to collaborate on Data Analytics, Business Intelligence, and Open-Source Data Projects<br>💡 I'm interested in transforming raw data into actionable business insights<br>💬 Ask me about Data Analytics, Power BI, SQL, Excel, and Python<br>🎯 Goal: To become a professional Data Analyst<br>⚡ Fun fact: I enjoy discovering patterns and stories hidden inside data
+# Hi, I'm Vijay K G 👋
+**Data Analyst Fresher** | BBA (CGPA 8.56) | Open to work & relocation
+
+I turn raw data into clear dashboards and business insights using SQL, Power BI, Excel and Python.
+
+📍 Bidar, Karnataka · 📧 vijaykg0118@gmail.com · 🔗 [LinkedIn](your-link)
+
+## 🛠 Skills
+- **Databases:** SQL Server, PostgreSQL
+- **BI & Reporting:** Power BI (DAX), Excel
+- **Programming:** Python (Pandas, NumPy)
+- **Tools:** Git, GitHub
+
+## 📊 Featured Projects
+| Project | What I did | Tools |
+|---|---|---|
+| [Ola Ride Bookings Dashboard](link) | Analysed booking, cancellation and revenue patterns | Power BI, DAX |
+| [SQL Server Data Warehouse](link) | Built a warehouse with ETL and cleaned analytical tables | SQL Server |
+| [Super Sales Insights](link) | Sales performance and trend analysis | SQL/Power BI |
+| [Bengaluru House Price Analysis](link) | EDA to find the key factors driving prices | Python, Pandas |
+
+*(Add one line of result per project, e.g. "Found that X caused 30% of cancellations")*
+
+## 🎓 Certification
+- Deloitte Australia Data Analytics Job Simulation (Forage)
+
+## 📫 Let's connect
+Looking for Data Analyst / Power BI / Reporting Analyst roles.
 
 
 # 💻 Tech Stack:
