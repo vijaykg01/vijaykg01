@@ -3,7 +3,7 @@
 
 I turn raw data into clear dashboards and business insights using SQL, Power BI, Excel and Python.
 
-📍 Bidar, Karnataka · 📧 vijaykg0118@gmail.com · 🔗 [LinkedIn](your-link)
+📍 Bidar, Karnataka · 📧 vijaykg0118@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/vijaykg01/)
 
 ## 🛠 Skills
 - **Databases:** SQL Server, PostgreSQL
@@ -14,12 +14,11 @@ I turn raw data into clear dashboards and business insights using SQL, Power BI,
 ## 📊 Featured Projects
 | Project | What I did | Tools |
 |---|---|---|
-| [Ola Ride Bookings Dashboard](link) | Analysed booking, cancellation and revenue patterns | Power BI, DAX |
 | [SQL Server Data Warehouse](link) | Built a warehouse with ETL and cleaned analytical tables | SQL Server |
-| [Super Sales Insights](link) | Sales performance and trend analysis | SQL/Power BI |
+| [Ola Ride Bookings Dashboard](link) | Analysed booking, cancellation and revenue patterns | Power BI, DAX |
+| [Super Sales Insights](link) | Sales performance and trend analysis | Excel, SQL/Power BI |
 | [Bengaluru House Price Analysis](link) | EDA to find the key factors driving prices | Python, Pandas |
 
-*(Add one line of result per project, e.g. "Found that X caused 30% of cancellations")*
 
 ## 🎓 Certification
 - Deloitte Australia Data Analytics Job Simulation (Forage)
